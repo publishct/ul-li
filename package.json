@@ -1,0 +1,19 @@
+{
+  "name": "unorderedlist",
+  "version": "0.0.1",
+  "description": "Event delegation for list items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/publishct/ul-li.git"
+  },
+  "author": "Cynthia Trujillo they",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/publishct/ul-li/issues"
+  },
+  "homepage": "https://github.com/publishct/ul-li#readme"
+}
